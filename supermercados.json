@@ -1,0 +1,200 @@
+{
+    "Mercadona": [
+        {
+            "direccion": "Josep Estivill 24",
+            "codigoPostal": "08024" ,
+            "geolocalizacion": "41°25'04.3N 2°11'15.3E",
+            "productos": [
+                {
+                    "pescaderia":[
+                        {
+                            "producto": "salmon",
+                            "marca": "hacendado",
+                            "informacion": {
+                                "unidades": "1",
+                                "fresco": "true",
+                                "formato": "envasado",
+                                "cantidad": "800",
+                                "unidadMedida": "gramos"
+                            },
+                            "precio": 9,
+                            "perecedero": true,
+                            "enOferta": true,
+                            "comprado": false
+                            },
+                            {
+                                "producto": "atun",
+                                "marca": "calvo",
+                                "informacion": {
+                                    "unidades": "3",
+                                    "fresco": "true",
+                                    "formato": "lata",
+                                    "cantidad": "200",
+                                    "unidadMedida": "gramos"
+                                },
+                                "precio": 3,
+                                "perecedero": true,
+                                "enOferta": false,
+                                "comprado": true 
+
+                        }
+                    ],
+                    "fruteria": [
+                        {
+                            "producto": "manzana",
+                            "marca": "hacendado",
+                            "informacion": {
+                            "unidades": 5,
+                            "fresco": true,
+                            "formato": "envasado",
+                            "cantidad": 250,
+                            "unidadMedida": "gramos"
+                        },
+                        "precio": 2.50,
+                        "perecedero": true,
+                        "enOferta": true,
+                        "comprado": true
+
+                    
+                }
+            ]
+
+        }
+
+    ]
+}
+    
+],
+"BonPreu": [
+    {
+        "direccion": "San Antoni Maria Clarell 264",
+            "codigoPostal": "08041" ,
+            "geolocalizacion": "41°24'47.5N 2°10'34.5E",
+            "productos": [
+                {
+                    "pescaderia":[
+                        {
+                            "producto": "sardinas",
+                            "marca": "Bon preu",
+                            "informacion": {
+                                "unidades": "1",
+                                "fresco": "true",
+                                "formato": "envasado",
+                                "cantidad": "600",
+                                "unidadMedida": "gramos"
+                            },
+                            "precio": 2.99,
+                            "perecedero": true,
+                            "enOferta": false,
+                            "comprado": false
+                            },
+                            {
+                                "producto": "pulpo",
+                                "marca": "Bon preu",
+                                "informacion": {
+                                    "unidades": "1",
+                                    "fresco": "true",
+                                    "formato": "envasado",
+                                    "cantidad": "1",
+                                    "unidadMedida": "kilos"
+                                },
+                                "precio": 10,
+                                "perecedero": true,
+                                "enOferta": false,
+                                "comprado": false 
+
+                        }
+                    ],
+                    "fruteria": [
+                        {
+                            "producto": "platanos",
+                            "marca": "canarias",
+                            "informacion": {
+                            "unidades": 6,
+                            "fresco": true,
+                            "formato": "bolsa",
+                            "cantidad": 800,
+                            "unidadMedida": "gramos"
+                        },
+                        "precio": 3.50,
+                        "perecedero": true,
+                        "enOferta": false,
+                        "comprado": true
+
+                    
+                }
+            ]
+
+        }
+
+    ]
+}
+    
+],
+"Lidl": [
+    {
+        "direccion": "Cartagena 250",
+            "codigoPostal": "08013" ,
+            "geolocalizacion": "41°24'28.0N 2°10'51.2E",
+            "productos": [
+                {
+                    "pescaderia":[
+                        {
+                            "producto": "gambas",
+                            "marca": "lidl",
+                            "informacion": {
+                                "unidades": "1",
+                                "fresco": "false",
+                                "formato": "congelado",
+                                "cantidad": "800",
+                                "unidadMedida": "gramos"
+                            },
+                            "precio": 5.99,
+                            "perecedero": true,
+                            "enOferta": false,
+                            "comprado": false
+                            },
+                            {
+                                "producto": "almejas",
+                                "marca": "Lidl",
+                                "informacion": {
+                                    "unidades": "1",
+                                    "fresco": "true",
+                                    "formato": "bolsa",
+                                    "cantidad": "500",
+                                    "unidadMedida": "gramos"
+                                },
+                                "precio": 3,
+                                "perecedero": true,
+                                "enOferta": false,
+                                "comprado": false 
+
+                        }
+                    ],
+                    "fruteria": [
+                        {
+                            "producto": "aguacate",
+                            "marca": "Bio",
+                            "informacion": {
+                            "unidades": 1,
+                            "fresco": true,
+                            "formato": "bolsa",
+                            "cantidad": 100,
+                            "unidadMedida": "gramos"
+                        },
+                        "precio": 2,
+                        "perecedero": true,
+                        "enOferta": false,
+                        "comprado": false
+
+                    
+                }
+            ]
+
+        }
+
+    ]
+}
+]
+    }
+
